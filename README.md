@@ -1,6 +1,6 @@
 # SoftUni_JS_Front_End
 
-Description: the repo is used to store and share accross devices the independently developed course-related code.
+<span>Description:</spand> the repo is used to store and share accross devices the independently developed course-related code.
 
 Course Objectives
 
