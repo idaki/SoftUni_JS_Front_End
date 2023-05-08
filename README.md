@@ -7,10 +7,10 @@
 - Java OOP - October 2023
 
 
-### HTML & CSS Topics
+### HTML & CSS Agenda
 ![SoftUni_JS_Front_End](https://github.com/idaki/SoftUni_JS_Front_End/blob/e54f9c0d1c319607591bb72dbaa339a1429391d9/Images/HTML%20%26%20CSS.png)
 
-### JS Front-End Topics
+### JS Front-End Agenda
 
 ![SoftUni_JS_Front_End](https://github.com/idaki/SoftUni_JS_Front_End/blob/79e6daad7c49c0efac417d827736491da9747155/Images/JS%20Front-End.png)
 
