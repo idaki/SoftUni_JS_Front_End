@@ -1,0 +1,16 @@
+body{
+    background-color: #CCCCCC;
+    padding: 0px;
+    margin: 0px;
+}
+
+.italic{
+    font-style: italic;
+}
+
+p{
+    font-size: 24px;
+}
+h1{
+    font-size: 28px;
+}
