@@ -1,0 +1,16 @@
+body{
+   font-family:  Helvetica, sans-serif;
+
+}
+
+li>a{
+    color: green;
+    text-decoration: none;
+}
+
+header{
+    border-bottom: 2px solid lightgrey;
+}
+.title{
+    font-weight: bold;
+}

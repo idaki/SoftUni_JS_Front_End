@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="site.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="upper">
+        <div class="container"><img src="images/picture1.jpg" alt="">
+            <i class="fa-solid fa-link"></i>
+        </div>
+    </div>
+    </div>
+    <div class="lower"><img src="images//picture2.jpg" alt=""></div>
+</body>
+
+</html>

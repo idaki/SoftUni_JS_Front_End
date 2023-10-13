@@ -1,0 +1,48 @@
+.main {
+    position: relative;
+}
+.card{
+   box-shadow: 5px 5px 5px grey;
+    width: 400px;
+    height: 450px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.image_container{
+    border: 1px solid gray;
+    width: 400px;
+    height: 250px;
+    position: relative;
+    overflow: hidden;
+}
+
+.image_container img{
+    width: 400px;
+}
+
+.copy{
+    height:200px ;
+    position: relative;
+}
+
+.copy h3{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.copy p {
+    margin-left: 30px;
+}
+
+.button{
+  position: absolute;
+  bottom: 60px;
+  right: 0;
+  margin-right: 30px;
+  background-color: green;
+  border-radius: 5%;
+  padding: 7px;
+  text-decoration: none;
+}
