@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #ddd;
+            padding: 5em;
+        }
+
+        .memory {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2em;
+            justify-content: center;
+        }
+
+        .card {
+            flex: 0 0 200px;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            border-radius: 0.3em;
+            box-shadow: 0 0 1em rgba(0 0 0 0.2);
+        }
+
+        .copy {
+            flex: 1 1 1em;
+            flex-wrap: wrap;
+            padding: 1em;
+            background-color: white;
+        }
+
+        img {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+
+        .copy footer {
+            padding: 1em;
+            border-top: 1px solid black; /* Add a border at the top */
+        }
+    </style>
+
+    <title>Document</title>
+</head>
+
+<body>
+    <section class="memory">
+        <div class="card">
+            <img src="images/Image1.jpg" alt="">
+            <section class="copy">
+                <h3>Card Title</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima consequuntur possimus quo enim
+                    eveniet, deserunt ducimus doloremque laudantium iure, ut inventore eaque fugit ex porro totam perspiciatis
+                    molestiae corporis. Odio!
+                </p>
+                <footer>More interesting things about the thing</footer>
+            </section>
+        </div>
+
+        <div class="card">
+            <img src="images/Image2.jpg" alt="">
+            <section class="copy">
+                <h3>Card Title</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima consequuntur possimus quo enim
+                    eveniet, deserunt ducimus doloremque laudantium iure, ut inventore eaque fugit ex porro totam perspiciatis
+                    molestiae corporis. Odio!
+                </p>
+                <footer>More interesting things about the thing</footer>
+            </section>
+        </div>
+        <div class="card">
+            <img src="images/Image3.jpg" alt="">
+            <section class="copy">
+                <h3>Card Title</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima consequuntur possimus quo enim
+                    eveniet, deserunt ducimus doloremque laudantium iure, ut inventore eaque fugit ex porro totam perspiciatis
+                    molestiae corporis. Odio!
+                </p>
+                <footer>More interesting things about the thing</footer>
+            </section>
+        </div>
+    </section>
+</body>
+
+</html>
