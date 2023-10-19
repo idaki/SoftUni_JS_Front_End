@@ -1,0 +1,31 @@
+.site-container {
+    display: flex;
+    max-width: 1200px;
+    height: 100vh;
+    border: 2px solid black;
+    flex-direction: row; /* Change to row direction for horizontal alignment */
+    align-items: flex-start;
+    flex: 1;
+}
+
+.site-header {
+    display: flex;
+    border: 2px solid red;
+    width: 100%;
+}
+
+.site-main {
+    border: 2px solid yellow;
+    flex: 1;
+}
+
+.site-aside {
+    border: 2px solid blue;
+    flex: 1;
+}
+
+.site-footer {
+    border: 2px solid green;
+    display: flex;
+    width: 100%;
+}
