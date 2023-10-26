@@ -1,0 +1,8 @@
+function print (num1, num2, num3){
+    let input = [num1,num2,num3];
+    input.sort((a,b)=>a - b);
+    
+    console.log(`The largest number is ${input[2]}.`);
+}
+
+print(100, 20, 40);

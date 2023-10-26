@@ -1,0 +1,29 @@
+function print(num1, num2, operation) {
+    let result = 0;
+    switch (operation) {
+        case '+':
+            resul = num1 + num2;
+            break;
+        case '-':
+            resul = num1 - num2;
+            break;
+        case '*':
+            resul = num1 * num2;
+            break;
+        case '/':
+            if (num2 != 0) {
+                resul = num1 / num2;
+            }
+            break;
+        case '%':
+            if (num2 != 0) {
+                resul = num1 % num2;
+            }
+            break;
+            case '**':
+                resul = num1 ** num2;
+                break;
+    }
+    console.log(result);
+
+}
