@@ -8,7 +8,7 @@
 
 
 ### HTML & CSS Agenda
-![SoftUni_JS_Front_End](https://github.com/idaki/SoftUni_JS_Front_End/blob/e54f9c0d1c319607591bb72dbaa339a1429391d9/Images/HTML%20%26%20CSS.png)
+![SoftUni_JS_Front_End](https://github.com/idaki/SoftUni_JS_Front_End_Course/blob/main/Images/HTML%20%26%20CSS.png)
 
 ### JS Front-End Agenda
 
