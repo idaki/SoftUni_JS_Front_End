@@ -12,5 +12,5 @@
 
 ### JS Front-End Agenda
 
-![SoftUni_JS_Front_End](https://github.com/idaki/SoftUni_JS_Front_End/blob/79e6daad7c49c0efac417d827736491da9747155/Images/JS%20Front-End.png)
+![SoftUni_JS_Front_End](https://github.com/idaki/SoftUni_JS_Front_End_Course/blob/main/Images/JS%20Front-End.png)
 
